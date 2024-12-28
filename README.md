@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! <br>This is Hrithik Barman.<br>and I'm a learner , from Bangladesh.</h2>
+<h2 align="left">This is Hrithik Barman.<br>and I'm a learner , from Bangladesh.</h2>
 
 ###
 <img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 
 
-<h6 align="left">🔭 I’m currently working on python based project.<br>🌱 I’m currently learning networking.<br>📫 How to reach me hrithikbm6@gmail.com<br>⚡ Fun fact who am i ?</h6>
+<h6 align="left">🔭 I’m currently working on something cool.<br>🌱 I’m currently learning networking.<br>⚡ Fun fact who am i ?</h6>
 
 ###
 
@@ -17,11 +17,13 @@
 
 📊codeforces : <br>
 ![](https://raw.githubusercontent.com/SH4RK00/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SH4RK00/cf-stats/main/output/light_card.svg)
+
 
 📊 GitHub Stats: <br>
 ![](https://github-readme-stats.vercel.app/api?username=SH4RK00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SH4RK00&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SH4RK00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
